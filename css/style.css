@@ -21,7 +21,7 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(255, 255, 255, 0.715);
 }
 
 h1, h2 {
@@ -30,7 +30,7 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 4em;
   margin-bottom: 0;
 }
 
@@ -43,6 +43,7 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color:darkgreen;
 }
 
 img {
